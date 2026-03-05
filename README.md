@@ -18,7 +18,8 @@ To build a command-line calculator using Python that supports basic arithmetic o
 - Handles division by zero
 
 ## Execution
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/dda65923-cb15-4fe0-aa3c-5b4ea6960fc0" />
+<img width="1907" height="1138" alt="Screenshot 2026-03-05 213035" src="https://github.com/user-attachments/assets/c944f14c-bea1-4521-8d6a-b64d17712444" />
+
 
 ## How to Run
 ```bash
